@@ -1,6 +1,6 @@
 # booking_app
 
-A new Flutter project.
+Booking app UI build using Flutter.
 
 ## Screenshot
 
